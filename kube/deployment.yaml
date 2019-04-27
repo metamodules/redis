@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: master
-          image: redis:5-alpine
+          image: redis:5.0.4-alpine
           imagePullPolicy: Always
           resources:
             requests:
