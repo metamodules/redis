@@ -21,7 +21,7 @@
     "eslint-plugin-standard": "^4.0.0",
     "prettier": "^1.17.0"
   },
-  "create-node-app": {
+  "deploy-node-app": {
     "driver": "lib/redis.js",
     "config": "lib/config.js"
   }
