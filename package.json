@@ -7,7 +7,7 @@
   "author": "erulabs <seandon.mooy@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "redis": "^2.8.0"
+    "redis": "=2.8.0"
   },
   "devDependencies": {
     "babel-eslint": "^10.0.1",
