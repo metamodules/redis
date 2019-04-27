@@ -1,0 +1,28 @@
+{
+  "name": "@create-node/redis",
+  "version": "1.0.0",
+  "description": "create-node-app meta-module for Redis. Develop and deploy Redis in seconds!",
+  "main": "index.js",
+  "repository": "git@github.com:create-node/redis",
+  "author": "erulabs <seandon.mooy@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "redis": "^2.8.0"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.16.0",
+    "eslint-config-standard": "^12.0.0",
+    "eslint-plugin-flowtype": "^3.6.1",
+    "eslint-plugin-import": "^2.17.2",
+    "eslint-plugin-node": "^8.0.1",
+    "eslint-plugin-prettier": "^3.0.1",
+    "eslint-plugin-promise": "^4.1.1",
+    "eslint-plugin-standard": "^4.0.0",
+    "prettier": "^1.17.0"
+  },
+  "create-node-app": {
+    "driver": "lib/redis.js",
+    "config": "lib/config.js"
+  }
+}
