@@ -1,5 +1,5 @@
 {
-  "name": "@create-node/redis",
+  "name": "@nodeapp/redis",
   "version": "1.0.0",
   "description": "create-node-app meta-module for Redis. Develop and deploy Redis in seconds!",
   "main": "index.js",
@@ -22,6 +22,7 @@
     "prettier": "^1.17.0"
   },
   "deploy-node-app": {
+    "metamodule": true,
     "driver": "lib/redis.js",
     "config": "lib/config.js"
   }
