@@ -1,6 +1,6 @@
 version: "2"
 services:
   redis:
-    image: redis:5-alpine
+    image: redis:5.0.4-alpine
     ports:
       - 6379
