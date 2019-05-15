@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "create-node-app metamodule for Redis. Develop and deploy Redis in seconds!",
   "main": "lib/index.js",
-  "repository": "git@github.com:create-node/redis",
+  "repository": "git@github.com:nodeapp-metamodules/redis",
   "authors": [
     "Seandon Mooy <seandon.mooy@gmail.com>",
     "Dan Pastusek <dan@hexial.com>"
