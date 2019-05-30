@@ -1,4 +1,4 @@
 ---
 resources:
-  - ./kube/deployment.yaml
+  - ./kube/statefulset.yaml
   - ./kube/service.yaml
