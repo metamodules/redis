@@ -20,9 +20,9 @@ spec:
           resources:
             requests:
               cpu: 50m
-              memory: 100Mi
+              memory: 128Mi
             limits:
-              cpu: 2
-              memory: 1500Mi
+              cpu: 500m
+              memory: 128Mi
           ports:
             - containerPort: 6379
