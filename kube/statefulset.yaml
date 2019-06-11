@@ -8,6 +8,7 @@ spec:
     matchLabels:
       app: redis
   replicas: 1
+  serviceName: redis
   template:
     metadata:
       labels:
