@@ -1,6 +1,6 @@
 {
   "name": "@nodeapp/redis",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "description": "create-node-app metamodule for Redis. Develop and deploy Redis in seconds!",
   "main": "lib/index.js",
   "repository": "git@github.com:nodeapp-metamodules/redis",
