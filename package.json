@@ -28,9 +28,9 @@
     "metamodule": true,
     "driver": "lib/index.js",
     "config": "lib/config.js",
-    "host": "REDIS_HOST",
+    "host": "REDIS_SERVICE_HOST",
     "ports": {
-      "REDIS_PORT": "6379/tcp"
+      "REDIS_SERVICE_PORT": "6379/tcp"
     }
   }
 }
