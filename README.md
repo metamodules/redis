@@ -4,6 +4,10 @@ For use with [create-node-app](https://github.com/kubesail/create-node-app) and 
 
 To add this metamodule to your project:
 
+```
+npm install @nodeapp/redis
+```
+
 ```js
 const redis = require('@nodeapp/redis')()
 
