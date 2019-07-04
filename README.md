@@ -5,11 +5,11 @@ For use with [create-node-app](https://github.com/kubesail/create-node-app) and 
 To add this metamodule to your project:
 
 ```
-npm install @nodeapp/redis
+npm install @metamodules/redis
 ```
 
 ```js
-const redis = require('@nodeapp/redis')()
+const redis = require('@metamodules/redis')()
 
 // This "just works" both in development and production!
 redis.get('my-key', function(err, reply) {
