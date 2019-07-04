@@ -1,4 +1,4 @@
-# Redis Meta-Module ![CircleCI](https://img.shields.io/circleci/build/github/nodeapp-metamodules/redis.svg) [![npm version](https://img.shields.io/npm/v/redis.svg)](https://www.npmjs.com/package/@nodeapp/redis)
+# Redis Meta-Module ![CircleCI](https://img.shields.io/circleci/build/github/metamodules/redis.svg) [![npm version](https://img.shields.io/npm/v/@metamodules/redis.svg)](https://www.npmjs.com/package/@metamodules/redis)
 
 For use with [create-node-app](https://github.com/kubesail/create-node-app) and [deploy-node-app](https://github.com/kubesail/deploy-node-app)
 
